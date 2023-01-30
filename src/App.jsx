@@ -11,7 +11,7 @@ import {
 function App() {
   return (
     <div className="App">
-      <div className="bg__gradient">
+      <div className="gradient__bg">
         <Navbar />
         <Header />
       </div>

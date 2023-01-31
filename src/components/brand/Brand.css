@@ -1,0 +1,18 @@
+.gpt3__brand-names_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.gpt3__brand-names_container div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 150px;
+  min-width: 120px;
+}
+.gpt3__brand-names_container img {
+  margin-right: 2rem;
+  margin-bottom: 2rem;
+}
